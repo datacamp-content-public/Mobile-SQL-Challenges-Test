@@ -17,6 +17,36 @@ key: 850cee65b3
 Do some data science.
 
 
+`@instructions`
+instructions
+
+`@hint`
+hint
+
+`@pre_exercise_code`
+
+```{python}
+# pre ex
+```
+
+`@sample_code`
+
+```{sql}
+SELECT * FROM `table`
+```
+
+`@solution`
+
+```{sql}
+SELECT * FROM `table`
+```
+
+`@sct`
+
+```{python}
+# sct
+```
+
 ---
 
 ## Insert exercise title here
