@@ -1,6 +1,6 @@
 ---
-  title: "chapter 3"
-  description: ""
+title: 'chapter 3'
+description: ""
 ---
 
 ## Insert exercise title here
@@ -97,15 +97,6 @@ key: 18a5fc6e9f
 
 
 
-`@hint`
-
-
-`@possible_answers`
-
-
-`@feedbacks`
-
-
 ---
 
 ## Insert exercise title here
@@ -118,26 +109,6 @@ key: 2d9af69a14
 
 
 
-
-
-`@instructions`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-
-```{python}
-
-```
-
-
-`@sct`
-
-```{python}
-
-```
 
 
 ---
@@ -154,15 +125,6 @@ key: 1d2fd1ab02
 
 
 
-`@hint`
-
-
-`@possible_answers`
-
-
-`@feedbacks`
-
-
 ---
 
 ## Insert exercise title here
@@ -177,40 +139,6 @@ key: 47ffb5e519
 
 
 
-`@instructions`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-
-```{python}
-
-```
-
-
-`@sample_code`
-
-```{sql}
-
-```
-
-
-`@solution`
-
-```{sql}
-
-```
-
-
-`@sct`
-
-```{python}
-
-```
-
-
 ---
 
 ## Insert exercise title here
@@ -223,15 +151,6 @@ key: 3e512b6860
 
 
 
-
-
-`@hint`
-
-
-`@possible_answers`
-
-
-`@feedbacks`
 
 
 ---
@@ -260,20 +179,6 @@ key: 3a553bcc15
 
 
 
-`@pre_exercise_code`
-
-```{python}
-
-```
-
-
-`@sample_code`
-
-```{sql}
-
-```
-
-
 ---
 
 ## Insert exercise title here
@@ -286,24 +191,4 @@ key: c79e0d2626
 
 
 
-
-
-`@instructions`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-
-```{python}
-
-```
-
-
-`@sct`
-
-```{python}
-
-```
 

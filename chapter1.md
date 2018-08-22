@@ -1,6 +1,6 @@
 ---
-  title: "Template Chapter 1"
-  description: "This is a template chapter."
+title: 'Template Chapter 1'
+description: 'This is a template chapter.'
 ---
 
 ## Ex 1.1
@@ -24,29 +24,21 @@ instructions
 hint
 
 `@pre_exercise_code`
-
 ```{python}
 # pre ex
 ```
-
 `@sample_code`
-
 ```{sql}
 SELECT * FROM `table`
 ```
-
 `@solution`
-
 ```{sql}
 SELECT * FROM `table`
 ```
-
 `@sct`
-
 ```{python}
 # sct
 ```
-
 ---
 
 ## Insert exercise title here
@@ -73,40 +65,6 @@ key: 4005c21732
 
 
 
-`@instructions`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-
-```{python}
-
-```
-
-
-`@sample_code`
-
-```{sql}
-
-```
-
-
-`@solution`
-
-```{sql}
-
-```
-
-
-`@sct`
-
-```{python}
-
-```
-
-
 ---
 
 ## Insert exercise title here
@@ -119,40 +77,6 @@ key: 8e4860d37a
 
 
 
-
-
-`@instructions`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-
-```{python}
-
-```
-
-
-`@sample_code`
-
-```{sql}
-
-```
-
-
-`@solution`
-
-```{sql}
-
-```
-
-
-`@sct`
-
-```{python}
-
-```
 
 
 ---
@@ -169,40 +93,6 @@ key: 3b1a7ad8af
 
 
 
-`@instructions`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-
-```{python}
-
-```
-
-
-`@sample_code`
-
-```{sql}
-
-```
-
-
-`@solution`
-
-```{sql}
-
-```
-
-
-`@sct`
-
-```{python}
-
-```
-
-
 ---
 
 ## Insert exercise title here
@@ -215,40 +105,6 @@ key: 19850d30bc
 
 
 
-
-
-`@instructions`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-
-```{python}
-
-```
-
-
-`@sample_code`
-
-```{sql}
-
-```
-
-
-`@solution`
-
-```{sql}
-
-```
-
-
-`@sct`
-
-```{python}
-
-```
 
 
 ---
@@ -265,26 +121,6 @@ key: 341acc154c
 
 
 
-`@instructions`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-
-```{python}
-
-```
-
-
-`@sct`
-
-```{python}
-
-```
-
-
 ---
 
 ## Insert exercise title here
@@ -299,15 +135,6 @@ key: f00e6e5fdd
 
 
 
-`@hint`
-
-
-`@possible_answers`
-
-
-`@feedbacks`
-
-
 ---
 
 ## Insert exercise title here
@@ -320,40 +147,6 @@ key: 89ee7f102c
 
 
 
-
-
-`@instructions`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-
-```{python}
-
-```
-
-
-`@sample_code`
-
-```{sql}
-
-```
-
-
-`@solution`
-
-```{sql}
-
-```
-
-
-`@sct`
-
-```{python}
-
-```
 
 
 ---
@@ -382,40 +175,6 @@ key: 7ff6daa0fc
 
 
 
-`@instructions`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-
-```{python}
-
-```
-
-
-`@sample_code`
-
-```{sql}
-
-```
-
-
-`@solution`
-
-```{sql}
-
-```
-
-
-`@sct`
-
-```{python}
-
-```
-
-
 ---
 
 ## Insert exercise title here
@@ -428,26 +187,6 @@ key: fe2f014aaf
 
 
 
-
-
-`@instructions`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-
-```{python}
-
-```
-
-
-`@sct`
-
-```{python}
-
-```
 
 
 ---
@@ -464,20 +203,6 @@ key: ba7d3a19e7
 
 
 
-`@pre_exercise_code`
-
-```{python}
-
-```
-
-
-`@sample_code`
-
-```{sql}
-
-```
-
-
 ---
 
 ## Insert exercise title here
@@ -490,38 +215,4 @@ key: d8d4c55f67
 
 
 
-
-
-`@instructions`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-
-```{python}
-
-```
-
-
-`@sample_code`
-
-```{sql}
-
-```
-
-
-`@solution`
-
-```{sql}
-
-```
-
-
-`@sct`
-
-```{python}
-
-```
 
