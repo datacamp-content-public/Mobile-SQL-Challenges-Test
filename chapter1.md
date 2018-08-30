@@ -24,7 +24,7 @@ key: 4005c21732
 ```
 
 
-
+Goran was here!
 
 
 ---
@@ -57,7 +57,7 @@ key: 3b1a7ad8af
 
 ---
 
-## Insert exercise title here
+## New
 
 ```yaml
 type: NormalExercise 
@@ -85,21 +85,7 @@ key: f00e6e5fdd
 
 ---
 
-## Insert exercise title here
-
-```yaml
-type: NormalExercise 
-xp: 100 
-key: 89ee7f102c   
-```
-
-
-
-
-
----
-
-## Insert exercise title here
+## Goran2
 
 ```yaml
 type: MultipleChoiceExercise 
@@ -108,7 +94,21 @@ key: 341acc154c
 ```
 
 
+this are some changes I want to do
 
+
+---
+
+## ta-da
+
+```yaml
+type: NormalExercise 
+xp: 100 
+key: 4f37d0fbe3   
+```
+
+
+goran test
 
 
 ---
