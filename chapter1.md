@@ -43,20 +43,6 @@ key: 8e4860d37a
 
 ---
 
-## Insert exercise title here
-
-```yaml
-type: NormalExercise 
-xp: 100 
-key: 3b1a7ad8af   
-```
-
-
-
-
-
----
-
 ## New
 
 ```yaml
@@ -77,6 +63,20 @@ key: 19850d30bc
 type: PureMultipleChoiceExercise 
 xp: 50 
 key: f00e6e5fdd   
+```
+
+
+
+
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: NormalExercise 
+xp: 100 
+key: 3b1a7ad8af   
 ```
 
 
