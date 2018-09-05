@@ -15,7 +15,7 @@ key: 461dd4a40e
 9709e80bbe7ff1f70eb817189c4d0c15
 ---
 
-## Insert exercise title here
+## just changed
 
 ```yaml
 type: NormalExercise 
@@ -125,7 +125,7 @@ key: 860aca45d1
 40fe0e2b7f1a8672c99752eecb67dbae
 ---
 
-## Insert exercise title here
+## changed title
 
 ```yaml
 type: NormalExercise 
@@ -134,7 +134,41 @@ key: 7ff6daa0fc
 ```
 
 
+assignment
 
+
+`@instructions`
+instructions here
+
+`@hint`
+
+
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{sql}
+
+```
+
+
+`@solution`
+
+```{sql}
+
+```
+
+
+`@sct`
+
+```{python}
+
+```
 
 
 ---
