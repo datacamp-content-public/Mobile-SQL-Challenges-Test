@@ -6,12 +6,10 @@ description: ""
 ## Insert exercise title here
 
 ```yaml
-type: MultipleChoiceExercise 
-xp: 50 
-key: c286b02ff6   
+type: MultipleChoiceExercise
+key: c286b02ff6
+xp: 50
 ```
-
-
 
 
 
@@ -20,12 +18,10 @@ key: c286b02ff6
 ## Insert exercise title here
 
 ```yaml
-type: MultipleChoiceExercise 
-xp: 50 
-key: 35625c0400   
+type: MultipleChoiceExercise
+key: 35625c0400
+xp: 50
 ```
-
-
 
 
 
@@ -34,12 +30,10 @@ key: 35625c0400
 ## Insert exercise title here
 
 ```yaml
-type: NormalExercise 
-xp: 100 
-key: 7913d7c751   
+type: NormalExercise
+key: 7913d7c751
+xp: 100
 ```
-
-
 
 
 
@@ -48,12 +42,10 @@ key: 7913d7c751
 ## Insert exercise title here
 
 ```yaml
-type: NormalExercise 
-xp: 100 
-key: 4d18fa41c6   
+type: NormalExercise
+key: 4d18fa41c6
+xp: 100
 ```
-
-
 
 
 
@@ -62,12 +54,10 @@ key: 4d18fa41c6
 ## Insert exercise title here
 
 ```yaml
-type: NormalExercise 
-xp: 100 
-key: aac6253359   
+type: NormalExercise
+key: aac6253359
+xp: 100
 ```
-
-
 
 
 
@@ -76,120 +66,105 @@ key: aac6253359
 ## Insert exercise title here
 
 ```yaml
-type: VideoExercise 
-xp: 50 
-key: f406184bc0   
+type: VideoExercise
+key: f406184bc0
+xp: 50
 ```
 
 `@projector_key`
 440df5d798917f4729f7993b045536d2
+
 ---
 
 ## Insert exercise title here
 
 ```yaml
-type: PureMultipleChoiceExercise 
-xp: 50 
-key: 18a5fc6e9f   
+type: PureMultipleChoiceExercise
+key: 18a5fc6e9f
+xp: 50
 ```
 
 
 
-
-
 ---
 
 ## Insert exercise title here
 
 ```yaml
-type: MultipleChoiceExercise 
-xp: 50 
-key: 2d9af69a14   
+type: MultipleChoiceExercise
+key: 2d9af69a14
+xp: 50
 ```
 
 
 
-
-
 ---
 
 ## Insert exercise title here
 
 ```yaml
-type: PureMultipleChoiceExercise 
-xp: 50 
-key: 1d2fd1ab02   
+type: PureMultipleChoiceExercise
+key: 1d2fd1ab02
+xp: 50
 ```
 
 
 
-
-
 ---
 
 ## Insert exercise title here
 
 ```yaml
-type: NormalExercise 
-xp: 100 
-key: 47ffb5e519   
+type: NormalExercise
+key: 47ffb5e519
+xp: 100
 ```
 
 
 
-
-
 ---
 
 ## Insert exercise title here
 
 ```yaml
-type: PureMultipleChoiceExercise 
-xp: 50 
-key: 3e512b6860   
+type: PureMultipleChoiceExercise
+key: 3e512b6860
+xp: 50
 ```
 
 
 
-
-
 ---
 
 ## Insert exercise title here
 
 ```yaml
-type: VideoExercise 
-xp: 50 
-key: b2d5da065c   
+type: VideoExercise
+key: b2d5da065c
+xp: 50
 ```
 
 `@projector_key`
 c05373be38c00caba13a213f41b58591
----
-
-## Insert exercise title here
-
-```yaml
-type: TabExercise 
-xp: 100 
-key: 3a553bcc15   
-```
-
-
-
-
 
 ---
 
 ## Insert exercise title here
 
 ```yaml
-type: MultipleChoiceExercise 
-xp: 50 
-key: c79e0d2626   
+type: TabExercise
+key: 3a553bcc15
+xp: 100
 ```
 
 
 
+---
 
+## Insert exercise title here
 
+```yaml
+type: MultipleChoiceExercise
+key: c79e0d2626
+xp: 50
+```

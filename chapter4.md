@@ -6,12 +6,10 @@ description: ""
 ## Insert exercise title here
 
 ```yaml
-type: MultipleChoiceExercise 
-xp: 50 
-key: 286cfb3c7f   
+type: MultipleChoiceExercise
+key: 286cfb3c7f
+xp: 50
 ```
-
-
 
 
 
@@ -20,12 +18,7 @@ key: 286cfb3c7f
 ## Insert exercise title here
 
 ```yaml
-type: NormalExercise 
-xp: 100 
-key: 62c0351170   
+type: NormalExercise
+key: 62c0351170
+xp: 100
 ```
-
-
-
-
-

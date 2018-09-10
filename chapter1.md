@@ -6,38 +6,35 @@ description: 'This is a template chapter.'
 ## d
 
 ```yaml
-type: VideoExercise 
-xp: 50 
-key: 461dd4a40e   
+type: VideoExercise
+key: 461dd4a40e
+xp: 50
 ```
 
 `@projector_key`
 9709e80bbe7ff1f70eb817189c4d0c15
+
 ---
 
 ## just changed
 
 ```yaml
-type: NormalExercise 
-xp: 100 
-key: 4005c21732   
+type: NormalExercise
+key: 4005c21732
+xp: 100
 ```
 
-
 Goran was here!
-
 
 ---
 
 ## Insert exercise title here
 
 ```yaml
-type: NormalExercise 
-xp: 100 
-key: 8e4860d37a   
+type: NormalExercise
+key: 8e4860d37a
+xp: 100
 ```
-
-
 
 
 
@@ -46,12 +43,10 @@ key: 8e4860d37a
 ## New
 
 ```yaml
-type: NormalExercise 
-xp: 100 
-key: 19850d30bc   
+type: NormalExercise
+key: 19850d30bc
+xp: 100
 ```
-
-
 
 
 
@@ -60,12 +55,10 @@ key: 19850d30bc
 ## Insert exercise title here
 
 ```yaml
-type: PureMultipleChoiceExercise 
-xp: 50 
-key: f00e6e5fdd   
+type: PureMultipleChoiceExercise
+key: f00e6e5fdd
+xp: 50
 ```
-
-
 
 
 
@@ -74,12 +67,10 @@ key: f00e6e5fdd
 ## Insert exercise title here
 
 ```yaml
-type: NormalExercise 
-xp: 100 
-key: 3b1a7ad8af   
+type: NormalExercise
+key: 3b1a7ad8af
+xp: 100
 ```
-
-
 
 
 
@@ -88,54 +79,49 @@ key: 3b1a7ad8af
 ## Goran2
 
 ```yaml
-type: MultipleChoiceExercise 
-xp: 50 
-key: 341acc154c   
+type: MultipleChoiceExercise
+key: 341acc154c
+xp: 50
 ```
 
-
 this are some changes I want to do
-
 
 ---
 
 ## ta-da
 
 ```yaml
-type: NormalExercise 
-xp: 100 
-key: 4f37d0fbe3   
+type: NormalExercise
+key: 4f37d0fbe3
+xp: 100
 ```
 
-
 goran test
-
 
 ---
 
 ## Insert exercise title here
 
 ```yaml
-type: VideoExercise 
-xp: 50 
-key: 860aca45d1   
+type: VideoExercise
+key: 860aca45d1
+xp: 50
 ```
 
 `@projector_key`
 40fe0e2b7f1a8672c99752eecb67dbae
+
 ---
 
 ## changed title
 
 ```yaml
-type: NormalExercise 
-xp: 100 
-key: 7ff6daa0fc   
+type: NormalExercise
+key: 7ff6daa0fc
+xp: 100
 ```
 
-
 assignment
-
 
 `@instructions`
 instructions here
@@ -144,58 +130,34 @@ instructions here
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{sql}
 
 ```
-
 
 `@solution`
-
 ```{sql}
 
 ```
 
-
 `@sct`
-
 ```{python}
 
 ```
 
-
 ---
 
 ## Insert exercise title here
 
 ```yaml
-type: MultipleChoiceExercise 
-xp: 50 
-key: fe2f014aaf   
+type: MultipleChoiceExercise
+key: fe2f014aaf
+xp: 50
 ```
-
-
-
-
-
----
-
-## Insert exercise title here
-
-```yaml
-type: TabExercise 
-xp: 100 
-key: ba7d3a19e7   
-```
-
-
 
 
 
@@ -204,12 +166,10 @@ key: ba7d3a19e7
 ## Insert exercise title here
 
 ```yaml
-type: NormalExercise 
-xp: 100 
-key: d8d4c55f67   
+type: TabExercise
+key: ba7d3a19e7
+xp: 100
 ```
-
-
 
 
 
@@ -218,12 +178,22 @@ key: d8d4c55f67
 ## Insert exercise title here
 
 ```yaml
-type: NormalExercise 
-xp: 100 
-key: 25841d5beb   
+type: NormalExercise
+key: d8d4c55f67
+xp: 100
 ```
 
 
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+key: 25841d5beb
+xp: 100
+```
 
 
 
@@ -234,30 +204,21 @@ key: 25841d5beb
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{sql}
 
 ```
-
 
 `@solution`
-
 ```{sql}
 
 ```
 
-
 `@sct`
-
 ```{python}
 
 ```
-
-
