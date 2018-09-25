@@ -217,6 +217,44 @@ this are some changes I want to do
 
 ---
 
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+key: 43b8341cda
+xp: 100
+```
+
+dasljdbajsndklanlkdlaskdas
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{sql}
+
+```
+
+`@solution`
+```{sql}
+
+```
+
+`@sct`
+```{python}
+
+```
+
+---
+
 ## ta-da
 
 ```yaml
@@ -403,44 +441,6 @@ xp: 100
 ```
 
 
-
-`@instructions`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-```{python}
-
-```
-
-`@sample_code`
-```{sql}
-
-```
-
-`@solution`
-```{sql}
-
-```
-
-`@sct`
-```{python}
-
-```
-
----
-
-## Insert exercise title here
-
-```yaml
-type: NormalExercise
-key: 43b8341cda
-xp: 100
-```
-
-dasljdbajsndklanlkdlaskdas
 
 `@instructions`
 
