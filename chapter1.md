@@ -255,6 +255,34 @@ dasljdbajsndklanlkdlaskdas
 
 ---
 
+## Insert exercise title here
+
+```yaml
+type: MultipleChoiceExercise
+key: 8cd1a3ca1d
+xp: 50
+```
+
+
+
+`@possible_answers`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sct`
+```{python}
+
+```
+
+---
+
 ## ta-da
 
 ```yaml
