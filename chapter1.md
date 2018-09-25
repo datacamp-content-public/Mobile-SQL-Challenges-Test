@@ -26,6 +26,32 @@ xp: 100
 
 Goran was here!
 
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{sql}
+
+```
+
+`@solution`
+```{sql}
+
+```
+
+`@sct`
+```{python}
+
+```
+
 ---
 
 ## Insert exercise title here
@@ -37,6 +63,32 @@ xp: 100
 ```
 
 
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{sql}
+
+```
+
+`@solution`
+```{sql}
+
+```
+
+`@sct`
+```{python}
+
+```
 
 ---
 
@@ -50,6 +102,32 @@ xp: 100
 
 
 
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{sql}
+
+```
+
+`@solution`
+```{sql}
+
+```
+
+`@sct`
+```{python}
+
+```
+
 ---
 
 ## Insert exercise title here
@@ -60,6 +138,15 @@ key: f00e6e5fdd
 xp: 50
 ```
 
+
+
+`@hint`
+
+
+`@possible_answers`
+
+
+`@feedbacks`
 
 
 ---
@@ -74,6 +161,32 @@ xp: 100
 
 
 
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{sql}
+
+```
+
+`@solution`
+```{sql}
+
+```
+
+`@sct`
+```{python}
+
+```
+
 ---
 
 ## Goran2
@@ -86,6 +199,22 @@ xp: 50
 
 this are some changes I want to do
 
+`@possible_answers`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sct`
+```{python}
+
+```
+
 ---
 
 ## ta-da
@@ -97,6 +226,32 @@ xp: 100
 ```
 
 goran test
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{sql}
+
+```
+
+`@solution`
+```{sql}
+
+```
+
+`@sct`
+```{python}
+
+```
 
 ---
 
@@ -161,6 +316,22 @@ xp: 50
 
 
 
+`@possible_answers`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sct`
+```{python}
+
+```
+
 ---
 
 ## Insert exercise title here
@@ -173,6 +344,16 @@ xp: 100
 
 
 
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{sql}
+
+```
+
 ---
 
 ## Insert exercise title here
@@ -184,6 +365,32 @@ xp: 100
 ```
 
 
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{sql}
+
+```
+
+`@solution`
+```{sql}
+
+```
+
+`@sct`
+```{python}
+
+```
 
 ---
 

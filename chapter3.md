@@ -13,6 +13,22 @@ xp: 50
 
 
 
+`@possible_answers`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sct`
+```{python}
+
+```
+
 ---
 
 ## Insert exercise title here
@@ -24,6 +40,22 @@ xp: 50
 ```
 
 
+
+`@possible_answers`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sct`
+```{python}
+
+```
 
 ---
 
@@ -37,6 +69,32 @@ xp: 100
 
 
 
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{sql}
+
+```
+
+`@solution`
+```{sql}
+
+```
+
+`@sct`
+```{python}
+
+```
+
 ---
 
 ## Insert exercise title here
@@ -49,6 +107,32 @@ xp: 100
 
 
 
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{sql}
+
+```
+
+`@solution`
+```{sql}
+
+```
+
+`@sct`
+```{python}
+
+```
+
 ---
 
 ## Insert exercise title here
@@ -60,6 +144,32 @@ xp: 100
 ```
 
 
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{sql}
+
+```
+
+`@solution`
+```{sql}
+
+```
+
+`@sct`
+```{python}
+
+```
 
 ---
 
@@ -86,6 +196,15 @@ xp: 50
 
 
 
+`@hint`
+
+
+`@possible_answers`
+
+
+`@feedbacks`
+
+
 ---
 
 ## Insert exercise title here
@@ -98,6 +217,22 @@ xp: 50
 
 
 
+`@possible_answers`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sct`
+```{python}
+
+```
+
 ---
 
 ## Insert exercise title here
@@ -108,6 +243,15 @@ key: 1d2fd1ab02
 xp: 50
 ```
 
+
+
+`@hint`
+
+
+`@possible_answers`
+
+
+`@feedbacks`
 
 
 ---
@@ -122,6 +266,32 @@ xp: 100
 
 
 
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{sql}
+
+```
+
+`@solution`
+```{sql}
+
+```
+
+`@sct`
+```{python}
+
+```
+
 ---
 
 ## Insert exercise title here
@@ -132,6 +302,15 @@ key: 3e512b6860
 xp: 50
 ```
 
+
+
+`@hint`
+
+
+`@possible_answers`
+
+
+`@feedbacks`
 
 
 ---
@@ -159,6 +338,16 @@ xp: 100
 
 
 
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{sql}
+
+```
+
 ---
 
 ## Insert exercise title here
@@ -167,4 +356,22 @@ xp: 100
 type: MultipleChoiceExercise
 key: c79e0d2626
 xp: 50
+```
+
+
+
+`@possible_answers`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sct`
+```{python}
+
 ```
