@@ -429,3 +429,41 @@ xp: 100
 ```{python}
 
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+key: 43b8341cda
+xp: 100
+```
+
+dasljdbajsndklanlkdlaskdas
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{sql}
+
+```
+
+`@solution`
+```{sql}
+
+```
+
+`@sct`
+```{python}
+
+```
