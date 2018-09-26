@@ -146,7 +146,7 @@ xp: 50
 `@possible_answers`
 
 
-`@feedbacks`
+`@feedback`
 
 
 ---
@@ -199,9 +199,6 @@ xp: 50
 
 this are some changes I want to do
 
-`@possible_answers`
-
-
 `@hint`
 
 
@@ -214,6 +211,9 @@ this are some changes I want to do
 ```{python}
 
 ```
+
+`@possible_answers`
+
 
 ---
 
@@ -265,9 +265,6 @@ xp: 50
 
 
 
-`@possible_answers`
-
-
 `@hint`
 
 
@@ -280,6 +277,9 @@ xp: 50
 ```{python}
 
 ```
+
+`@possible_answers`
+
 
 ---
 
@@ -382,9 +382,6 @@ xp: 50
 
 
 
-`@possible_answers`
-
-
 `@hint`
 
 
@@ -397,6 +394,9 @@ xp: 50
 ```{python}
 
 ```
+
+`@possible_answers`
+
 
 ---
 
