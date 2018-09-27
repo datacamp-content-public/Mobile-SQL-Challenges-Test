@@ -6,12 +6,28 @@
         "indexh": 0,
         "indexf": -1
       }
+    }
+  ],
+  "slides/chapter_1_67c02f21220d638195c4717731d58a5c.md": [
+    {
+      "timing": 0,
+      "state": {
+        "indexh": 0,
+        "indexf": -1
+      }
     },
     {
-      "timing": 0.059726648875407275,
+      "timing": 0.13137427123257492,
       "state": {
         "indexh": 0,
         "indexf": 0
+      }
+    },
+    {
+      "timing": 0.19354686232133336,
+      "state": {
+        "indexh": 1,
+        "indexf": -1
       }
     }
   ]
