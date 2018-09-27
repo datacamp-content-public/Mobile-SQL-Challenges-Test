@@ -92,6 +92,19 @@ xp: 100
 
 ---
 
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+key: d607f99548
+xp: 50
+```
+
+`@projector_key`
+d5966b7576e226cdda90f25375ef6bab
+
+---
+
 ## New
 
 ```yaml
@@ -109,24 +122,32 @@ xp: 100
 
 
 `@pre_exercise_code`
+
 ```{python}
 
 ```
+
 
 `@sample_code`
+
 ```{sql}
 
 ```
+
 
 `@solution`
+
 ```{sql}
 
 ```
 
+
 `@sct`
+
 ```{python}
 
 ```
+
 
 ---
 
@@ -173,14 +194,18 @@ xp: 100
 ```
 
 `@sample_code`
+
 ```{sql}
 
 ```
+
 
 `@solution`
+
 ```{sql}
 
 ```
+
 
 `@sct`
 ```{python}
@@ -239,14 +264,18 @@ dasljdbajsndklanlkdlaskdas
 ```
 
 `@sample_code`
+
 ```{sql}
 
 ```
+
 
 `@solution`
+
 ```{sql}
 
 ```
+
 
 `@sct`
 ```{python}
@@ -300,24 +329,32 @@ goran test
 
 
 `@pre_exercise_code`
+
 ```{python}
 
 ```
+
 
 `@sample_code`
+
 ```{sql}
 
 ```
+
 
 `@solution`
+
 ```{sql}
 
 ```
 
+
 `@sct`
+
 ```{python}
 
 ```
+
 
 ---
 
@@ -356,14 +393,18 @@ instructions here
 ```
 
 `@sample_code`
+
 ```{sql}
 
 ```
+
 
 `@solution`
+
 ```{sql}
 
 ```
+
 
 `@sct`
 ```{python}
@@ -391,9 +432,11 @@ xp: 50
 ```
 
 `@sct`
+
 ```{python}
 
 ```
+
 
 `@possible_answers`
 
@@ -439,24 +482,32 @@ xp: 100
 
 
 `@pre_exercise_code`
+
 ```{python}
 
 ```
+
 
 `@sample_code`
+
 ```{sql}
 
 ```
+
 
 `@solution`
+
 ```{sql}
 
 ```
 
+
 `@sct`
+
 ```{python}
 
 ```
+
 
 ---
 

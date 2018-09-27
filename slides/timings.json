@@ -30,5 +30,36 @@
         "indexf": -1
       }
     }
+  ],
+  "slides/chapter_1_d5966b7576e226cdda90f25375ef6bab.md": [
+    {
+      "timing": 0,
+      "state": {
+        "indexh": 0,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.08885210950207821,
+      "state": {
+        "indexh": 0,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.4324924091261591,
+      "state": {
+        "indexh": 1
+      }
+    }
+  ],
+  "slides/chapter_1_9709e80bbe7ff1f70eb817189c4d0c15.md": [
+    {
+      "timing": 0,
+      "state": {
+        "indexh": 0,
+        "indexf": -1
+      }
+    }
   ]
 }
