@@ -25,6 +25,36 @@ xp: 100
 ```
 
 Goran was here!
+Goran was here!
+Goran was here!
+Goran was here!
+Goran was here!
+Goran was here!
+Goran was here!
+Goran was here!
+Goran was here!
+Goran was here!
+Goran was here!
+Goran was here!
+Goran was here!
+Goran was here!
+Goran was here!
+Goran was here!
+Goran was here!
+Goran was here!
+Goran was here!
+Goran was here!
+Goran was here!
+Goran was here!
+Goran was here!
+Goran was here!
+Goran was here!
+Goran was here!
+Goran was here!
+Goran was here!
+Goran was here!
+Goran was here!
+
 
 `@instructions`
 
@@ -122,32 +152,24 @@ xp: 100
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{sql}
 
 ```
-
 
 `@solution`
-
 ```{sql}
 
 ```
 
-
 `@sct`
-
 ```{python}
 
 ```
-
 
 ---
 
@@ -194,18 +216,14 @@ xp: 100
 ```
 
 `@sample_code`
-
 ```{sql}
 
 ```
-
 
 `@solution`
-
 ```{sql}
 
 ```
-
 
 `@sct`
 ```{python}
@@ -224,6 +242,9 @@ xp: 50
 
 this are some changes I want to do
 
+`@possible_answers`
+
+
 `@hint`
 
 
@@ -236,9 +257,6 @@ this are some changes I want to do
 ```{python}
 
 ```
-
-`@possible_answers`
-
 
 ---
 
@@ -264,18 +282,14 @@ dasljdbajsndklanlkdlaskdas
 ```
 
 `@sample_code`
-
 ```{sql}
 
 ```
-
 
 `@solution`
-
 ```{sql}
 
 ```
-
 
 `@sct`
 ```{python}
@@ -294,6 +308,9 @@ xp: 50
 
 
 
+`@possible_answers`
+
+
 `@hint`
 
 
@@ -306,9 +323,6 @@ xp: 50
 ```{python}
 
 ```
-
-`@possible_answers`
-
 
 ---
 
@@ -329,32 +343,24 @@ goran test
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{sql}
 
 ```
-
 
 `@solution`
-
 ```{sql}
 
 ```
 
-
 `@sct`
-
 ```{python}
 
 ```
-
 
 ---
 
@@ -393,18 +399,14 @@ instructions here
 ```
 
 `@sample_code`
-
 ```{sql}
 
 ```
-
 
 `@solution`
-
 ```{sql}
 
 ```
-
 
 `@sct`
 ```{python}
@@ -423,6 +425,9 @@ xp: 50
 
 
 
+`@possible_answers`
+
+
 `@hint`
 
 
@@ -432,14 +437,9 @@ xp: 50
 ```
 
 `@sct`
-
 ```{python}
 
 ```
-
-
-`@possible_answers`
-
 
 ---
 
@@ -482,32 +482,24 @@ xp: 100
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{sql}
 
 ```
-
 
 `@solution`
-
 ```{sql}
 
 ```
 
-
 `@sct`
-
 ```{python}
 
 ```
-
 
 ---
 
@@ -521,3 +513,16 @@ xp: 50
 
 `@projector_key`
 67c02f21220d638195c4717731d58a5c
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+key: b12e995247
+xp: 50
+```
+
+`@projector_key`
+688526e75dfa2f8d56dc483126030ccd
