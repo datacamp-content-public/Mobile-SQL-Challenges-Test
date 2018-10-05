@@ -13,6 +13,9 @@ xp: 50
 
 
 
+`@possible_answers`
+
+
 `@hint`
 
 
@@ -25,9 +28,6 @@ xp: 50
 ```{python}
 
 ```
-
-`@possible_answers`
-
 
 ---
 
